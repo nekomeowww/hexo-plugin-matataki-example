@@ -1,1 +1,8 @@
 <%- partial('_partial/article', {post: page, index: false}) %>
+<script src="https://unpkg.com/fanlocker@latest/dist/fanlocker.js"></script>
+<script>
+  let fl = new FanLocker({
+    clientId: '<%- config.matataki.clientId %>',
+    clientSecret: '<%- config.matataki.clientSecret %>'
+  })
+</script>

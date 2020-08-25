@@ -108,3 +108,8 @@ deploy:
   branch: master
   name: Ayaka Neko
   email: neko@ayaka.moe
+
+fanlocker: https://developer.matataki.io/app/a0df0a921ffc94f3/oauth
+matataki:
+  clientId: 877712871651703
+  clientSecret: 43c715ef31a084b9
