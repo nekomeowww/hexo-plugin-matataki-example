@@ -14,7 +14,7 @@ yarn global add hexo-cli
 本项目已经集成和安装了 hexo-plugin-matataki，如果你需要在你的博客中使用的话，可以使用这个命令安装
 This project has been already integrated and installed hexo-plugin-matataki
 ```
-yarn add hexo-plugin-matataki
+yarn add hexo-plugin-matataki@latest
 ```
 
 ## 运行 Lift up
