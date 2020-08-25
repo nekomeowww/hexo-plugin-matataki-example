@@ -22,3 +22,15 @@ yarn add hexo-plugin-matataki@latest
 ```
 hexo s --debug
 ```
+
+## FAQ
+如果遇到没有更新文章列表内容的情况，请一定删除根目录下的 db.json 文件
+```
+# On Unix System
+rm -rf db.json
+hexo s --debug
+
+# On Windows
+del db.json
+hexo s --debug
+```
