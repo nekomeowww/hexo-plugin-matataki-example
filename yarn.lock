@@ -454,9 +454,9 @@ finalhandler@1.1.2:
     unpipe "~1.0.0"
 
 follow-redirects@^1.10.0:
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.13.0.tgz#b42e8d93a2a7eea5ed88633676d6597bc8e384db"
-  integrity sha512-aq6gF1BEKje4a9i9+5jimNFIpq4Q1WiwBToeRK5NvZBd/TRsmW8BsJfOEGkr76TbOyPVD3OVDN910EcUNtRYEA==
+  version "1.13.2"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.13.2.tgz#dd73c8effc12728ba5cf4259d760ea5fb83e3147"
+  integrity sha512-6mPTgLxYm3r6Bkkg0vNM0HTjfGrOEtsfbhagQvbxDEsEkpNhw582upBaoRZylzen6krEmxXJgt9Ju6HiI4O7BA==
 
 fresh@0.5.2:
   version "0.5.2"
@@ -624,10 +624,10 @@ hexo-pagination@1.0.0:
   resolved "https://registry.yarnpkg.com/hexo-pagination/-/hexo-pagination-1.0.0.tgz#c9c0ca3665267b9e9d0a89fc3edcaf3276907dc1"
   integrity sha512-miEVFgxchPr2qNWxw0JWpJ9R/Yaf7HjHBZVjvCCcqfbsLyYtCvIfJDxcEwz1sDOC/fLzYPqNnhUI73uNxBHRSA==
 
-hexo-plugin-matataki@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/hexo-plugin-matataki/-/hexo-plugin-matataki-1.0.4.tgz#5a48a693e00d43a39055e16ac40ec2d645798938"
-  integrity sha512-OIHXJWqwPr3MrDs7tPvXs3DrMNFKl2tbWniWOEfC5qJI15vPd51y54Y2sSVJjnFbUKghJeWfptaaLTVzPuaV7A==
+hexo-plugin-matataki@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/hexo-plugin-matataki/-/hexo-plugin-matataki-1.0.6.tgz#c441121871e2900e6a5d57668ef900fc364dbc47"
+  integrity sha512-AV5yZJh1IH6kySQieavhSA8PmYF+eJDcZ2MxFveZ34vKNdDmnb9eXCIvNqVz/In3EoUprsofSl3U4Bb7uPTHeQ==
   dependencies:
     axios "^0.20.0"
 
